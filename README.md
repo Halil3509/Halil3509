@@ -11,7 +11,6 @@ I'm an enthusiastic AI engineer currently pursuing my senior license at Izmir Ba
 
 - ❤️ I love writing Python
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 <code><img height="50" alt="python" src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"></code>
 <code><img height="50" alt="torch" src="https://pytorch.org/assets/images/quantization-practice/hero.gif"></code>
