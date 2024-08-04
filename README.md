@@ -2,7 +2,7 @@
 
 <br />
 
-I'm an enthusiastic AI engineer currently pursuing my senior license at Izmir Bakırçay University. Welcome to my GitHub haven, where I share my passion for AI, coding adventures, and a bit of my personal interests.
+I'm an enthusiastic AI engineer. Welcome to my GitHub haven, where I share my passion for AI, coding adventures, and a bit of my personal interests.
 
 
 **About me**
