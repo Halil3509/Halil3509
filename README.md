@@ -4,6 +4,8 @@
 
 I'm an enthusiastic AI engineer. Welcome to my GitHub haven, where I share my passion for AI, coding adventures, and a bit of my personal interests.
 
+![dilbazlar](https://github.com/user-attachments/assets/aeff1d9f-8cde-466c-b3ed-6ca6d696b4cd)
+
 
 **About me**
 
