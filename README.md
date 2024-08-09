@@ -12,6 +12,7 @@ I'm an enthusiastic AI engineer. Welcome to my GitHub haven, where I share my pa
 - 💼 AI Engineer at <b>[Üniteks](https://www.uniteks.com.tr/)</b>
 
 <code><img height="50" alt="python" src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"></code>
+<code><img height="50" alt="huggingface" src="https://huggingface.co/datasets/HuggingfaceStore/images/resolve/main/animated-logo.gif"></code>
 <code><img height="50" alt="torch" src="https://pytorch.org/assets/images/quantization-practice/hero.gif"></code>
 <code><img height="50" alt="tf" src="https://miro.medium.com/v2/resize:fit:850/1*cWFpj7Fp3BgLRC-fz5KUpw.gif"></code>
 <code><img height="50" alt="nodejs" src="https://user-images.githubusercontent.com/97989643/224550089-f2541ade-c5c6-4afa-8538-51a8dda4e23b.gif"></code>
