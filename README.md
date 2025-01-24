@@ -7,9 +7,9 @@ I'm an enthusiastic AI engineer. Welcome to my GitHub haven, where I share my pa
 
 **About me**
 
--  <img height="20" alt="python" src="https://media.licdn.com/dms/image/D4D0BAQHFOLYZnDa3Wg/company-logo_200_200/0/1719255771086/psynexa_team_logo?e=1731542400&v=beta&t=iTgoxgoVe6cEHXGXC6ogVH1QEaPz27iv2qpEh8wjoHM"> [Psynexa](https://www.psynexa.com/) Team Leader
+- [Psynexa](https://www.psynexa.com/) Team Leader
 
-- 💼 AI Engineer at <b>[Üniteks](https://www.uniteks.com.tr/)</b>
+- 💼 AI Engineer at <b>[HAVELSAN](https://www.havelsan.com/)</b>
 
 <code><img height="50" alt="python" src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"></code>
 <code><img height="50" alt="huggingface" src="https://huggingface.co/datasets/HuggingfaceStore/images/resolve/main/animated-logo.gif"></code>
